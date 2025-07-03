@@ -50,7 +50,7 @@ function plantillaCumpleTipo1(nombre, apellido) {
       <div class="container">
         <img
           class="header-logo"
-          src="https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/409852642_304737085879464_3807841060855773250_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGQJBg6JfiCgn6ktt9x2Mr1kY2rqjX_Y7mRjauqNf9juVqFtBJOY4-JFu--kmAGCVKwBEfZJMag3SwOoSGmY44s&_nc_ohc=79t4qdGuVyoQ7kNvwFOj7Zx&_nc_oc=Adn2kOmVA_4B-17YvwQk907ICMX-iichiwd5QtG8DWlwDFzWTiQgbYJWSVjsicK0tGY&_nc_zt=23&_nc_ht=scontent.flim2-1.fna&_nc_gid=abI0lKPVo_w7aJVtU73TPA&oh=00_AfIfKyfO6BkKwdB15HOUm8oBJ7yN5zI4nacahh3liMLrvw&oe=684404F3"
+          src="https://api-encuesta-7920396be181.herokuapp.com/assets/tambini/logo_tambini.jpg"
           alt="Logo Notaría Tambini"
         />
         <div class="titulo">🎉 ¡Feliz cumpleaños ${nombre} ${apellido}! 🎉</div>
